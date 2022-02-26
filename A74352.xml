@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Veneris, 21 Decemb. 1649. The rates of the excize or new-impost, set and imposed by Parliament on the several commodities imported, hereafter mentioned, to be paid and collected from the 21 day of December, 1649.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74352</idno>
+            <idno type="STC">Thomason E1060_75</idno>
+            <idno type="STC">ESTC R208791</idno>
+            <idno type="STC">ESTC R208793</idno>
+            <idno type="EEBO-CITATION">99867717</idno>
+            <idno type="PROQUEST">99867717</idno>
+            <idno type="VID">120037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120037)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[75])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Veneris, 21 Decemb. 1649. The rates of the excize or new-impost, set and imposed by Parliament on the several commodities imported, hereafter mentioned, to be paid and collected from the 21 day of December, 1649.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>639-642 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Edward Husband, Printer to the Parliament of England,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: 6D² . Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Bound after: An act for discharging from imprisonment poor prisoners, unable to satisfie their creditors.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Customs administration --  Great Britain --  Early works to 1800.</term>
+               <term>Excise tax --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:120037:1" rendition="simple:additions"/>
+                  <p>AN ACT For Diſcharging from IMPRISONMENT Poor Priſoners, Unable to ſatisfie their CREDITORS.</p>
+                  <p>Die Veneris, 21 Decembr. 1649.</p>
+                  <p>
+                     <hi>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</hi>
+                  </p>
+                  <p>Hen: Scobell, Cleric. Parliamenti.</p>
+                  <p>
+                     <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edward Huſband,</hi> Printer to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi> 1649.</p>
+               </div>
+            </front>
+            <body>
+               <div type="Act_of_Parliament">
+                  <pb facs="tcp:120037:2"/>
+                  <pb n="633" facs="tcp:120037:2"/>
+                  <head>An Act for diſchargeing from Impriſonment poor Priſoners, unable to ſatisfie their Creditors.</head>
+                  <p>
+                     <seg rend="decorInit">B</seg>E it Enacted by this preſent Par<g ref="char:EOLhyphen"/>liament, and by the Authority thereof, That if any perſon who is, or ſhall be on the <hi>21</hi> of <hi>Decemb.</hi> One thouſand ſix hundred forty and nine, in Priſon in any Coun<g ref="char:EOLhyphen"/>ty, City, Town or place, within <hi>England,</hi> the Dominion of <hi>Wales,</hi> or the Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> upon any Execu<g ref="char:EOLhyphen"/>tion, or any other Proceſs, where the cauſe of Action was originally for Debt, or for breach of Promiſe, Contract or Covenant, ſhall by his Petition deſire any Iuſtice of Peace of the County, City, Town or place, wherein he is ſo Impriſoned, to make a warrant in the nature of a <hi>Habeas Corpus cum cauſa,</hi> under his Hand and Seal, to the Sheriff, Goaler, or Keeper of the ſaid Priſon, to bring without delay the body of the ſame Priſoner, and return the cauſe or cauſes of his Impriſonment before him, to the intent that the ſaid Iuſtice of Peace may admini<g ref="char:EOLhyphen"/>ſter unto the ſaid Priſoner, the Oath herein after mentioned; That then the ſaid Iuſtice of Peace, upon ſuch Petition ſo made, ſhall be authorized and enjoyned by this preſent Act, forthwith to make a warrant under his hand and Seal, in the nature of a Writ of <hi>Habeas Corpus cum cauſa,</hi> to the ſaid Sheriff, Goaler, or Keeper of ſuch Priſoner, re<g ref="char:EOLhyphen"/>turnable at a ſhort day then next following, accord<g ref="char:EOLhyphen"/>ing to the diſtance of the place, to bring the Body of the ſaid Priſoner, and to return the cauſe or cauſes of his Impriſonment before him; And if upon the return of the ſaid Warrant in the nature of a Writ of <hi>Habeas Corpus cum Cauſa,</hi> it ſhall appear that the ſaid Priſoner is in Priſon for any the cauſes
+<pb n="634" facs="tcp:120037:3"/>aforeſaid, at the Suit of one or more perſon or per<g ref="char:EOLhyphen"/>ſons, upon any Execution or Executions, or other Proceſs, That then the ſaid Iuſtice of Peace, upon the requeſt of the ſaid Priſoner, ſhall and is hereby authorized to adminiſter to the ſaid Priſoner this Oath; <hi>viz. Mutatis mutandis</hi> in reſpect of the per<g ref="char:EOLhyphen"/>ſon or perſons ſo taking the ſame,</p>
+                  <p>
+                     <hi>THat <hi>Bona ſide</hi> he or ſhe is not worth in Poſſeſſion, Reverſion or Re<g ref="char:EOLhyphen"/>mainder of any Eſtate real or perſonal, except onely the Debts due to him or them from the Parliament, for the ſervice of the Commonwealth, to the value of five pounds, beſides neceſſary wearing Apparel, and Bed<g ref="char:EOLhyphen"/>ding for himſelf, wife and children, and Tools neceſſary for his Trade or Occupation, not exceeding the value of Five pounds; and hath not di<g ref="char:EOLhyphen"/>rectly or indirectly ſold, leaſed, or otherwiſe conveyed or intruſted his or her Eſtate, or any part thereof, thereby to expect any profit, benefit or advantage, or to deceive or defraud his Creditors.</hi>
+                  </p>
+                  <p>And upon the ſaid Priſoners taking or refuſing to take the ſaid Oath, The ſaid Iuſtice of Peace is hereby required and enjoyned, to remand the Body of the ſaid Priſoner to the Priſon from whence he came; And in caſe the ſaid Priſoner ſhall take the ſaid Oath, Then the ſaid Iuſtice of Peace ſhall without delay, by writing under his Hand and Seal, make Certificate or Certificates, as well of the ſaid Priſoners taking of the ſaid Oath, together with the time and place of the taking thereof, as of the ſaid warrant in the nature of a <hi>Habeas Corpus,</hi> with the return thereof, unto the Court or Courts from whence the Proceſs or Proceſſes of Execution or Executions iſſued upon which ſuch priſoner was impriſoned: And upon return of the ſaid Certificate or Certificates into the Court or Courts aforeſaid, the Iudges of the ſaid Court or Courts are hereby authorized, enabled and required thereupon, to iſſue out, or cauſe to be iſſued out, four days of courſe, under the Seal or Seals of the ſaid Court or Courts (at the ſuit of the ſaid Priſoner) one or more Writ or Writs of <hi>Scire facias,</hi> with a <hi>Non omittas propter aliquam libertatem,</hi>
+                     <pb n="635" facs="tcp:120037:3"/>grounded upon the ſaid Certificate or Certificates (every of the ſaid Writs to have thirty days at the leaſt between the <hi>Teſte</hi> and the return thereof) di<g ref="char:EOLhyphen"/>rected to the Sheriff or Sheriffs of any county, or any Major or Bayliff of any City, Borough or Town Corporate in <hi>England</hi> or <hi>Wales,</hi> wherein the party or parties (upon whoſe Action, Suit or Pro<g ref="char:EOLhyphen"/>ſecution the ſaid Priſoner is impriſoned) or his or their Executors or Adminiſtrators, or ſome of them reſpectively ſhall be ſuppoſed to be dwelling, and thereby to command the ſame Sheriff or She<g ref="char:EOLhyphen"/>tiffs; Bayliff, or any other Officer authorized by the Law, to give fourteen days warning at the leaſt before the return of the ſaid Writ or Writs, to the perſon of ſuch perſon or perſons, at or upon whoſe Action, Suit or Proſecution the ſaid Pri<g ref="char:EOLhyphen"/>ſoner is impriſoned, or to his or their Executors or Adminiſtrators, or ſome of them reſpectively, in caſe he or they, or ſome of them reſpectively may be found; and in caſe be or they, or ſome of them reſpectively cannot be found, then to leave a wri<g ref="char:EOLhyphen"/>ting under his hand and ſeal, at the leaſt fourteen days before the return of the ſaid Writ or Writs, at the dwelling place or places of him, them, or ſome of them reſpectively, therein reciting the ſaid Writ or Writs, and thereby requiring him or them to appear in the ſame Court or Courts, at the day and place in the ſaid Writ or Writs limited, to ſhew cauſe, according to the purport of the ſaid Writ or Writs, wherefore the ſaid Priſoner ſhall not be inlarged out of Priſon according to this Act; whereupon the Sheriff or Sheriffs, or any other legal Officer, ſhall make his or their return or returns of his doings therein accordingly; and if the ſaid Sheriff or Sheriffs, or any other legal Officer ſhall return, that he hath warned the ſaid perſon or perſons, or left ſuch writing or warning at his or their dwelling place or places, according
+<pb n="636" facs="tcp:120037:4"/>to the command of the ſaid Writ or Writs; and if the perſon or perſons ſo warned, or for whom ſuch wri<g ref="char:EOLhyphen"/>ting of warning ſhall be left to appear as is afore<g ref="char:EOLhyphen"/>ſaid, ſhall not at the day or days of the return of the ſame Writ or Writs appear in perſon, or by his or their Attorney or Attorneys, or ſhall appear and confeſs the ſurmiſe of the ſaid Writ or Writs to be true, or if he or they after ſuch apparance, ſhall plead no<g ref="char:EOLhyphen"/>thing in Bar of the ſaid Writ or Writs, and the ſur<g ref="char:EOLhyphen"/>miſe therein contained, or ſhall not plead thereunto as hereafter is directed and expreſſed, Then and in ſuch caſe, the ſaid Court or Courts ſhall, and are hereby enabled and authorized to give Iudgement by Confeſsion, <hi>nihil dicit non lum informatus,</hi> or other<g ref="char:EOLhyphen"/>wiſe as is uſual in like caſes, for the inlarging and diſcharging the ſaid Priſoner out of Priſon, and thereupon to award a Writ unto the Keeper of the ſaid Priſoner for his inlargement and diſcharge ac<g ref="char:EOLhyphen"/>cordingly: And in caſe the ſaid perſon or perſons ſo warned, or for whom ſuch warning ſhall be left as aforeſaid, ſhall appear upon the return of the ſaid Writ or Writs, then he or they ſhall not plead any thing to hinder the inlargement of the ſaid Pri<g ref="char:EOLhyphen"/>ſoner, other then that the ſaid Priſoner hath a greater Eſtate real or perſonal then is expreſſed in his ſaid Oath; or that the ſaid Priſoner hath di<g ref="char:EOLhyphen"/>rectly or indirectly conveyed or intruſted his or their Eſtate, or ſome part thereof, expecting to have ſome benefit or advantage, or to deceive or defraud his Creditors; or that the ſaid Priſoner hath been in Arms againſt the Parliament of <hi>England,</hi> or hath adhered to the Forces raiſed againſt the ſame: And if he or they ſhall plead unto the ſame, That the ſaid Priſoner hath a greater Eſtate real or per<g ref="char:EOLhyphen"/>ſonal then is expreſſed in his ſaid Oath; or that the ſaid Priſoner hath directly or indirectly conveyed or intruſted his or their Eſtate, or ſome part thereof, expecting to have ſome benefit or advantage, or to
+<pb n="637" facs="tcp:120037:4"/>deceive or defraud his or her Creditors; or that the ſaid Priſoner hath been in Arms againſt the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> of <hi>England,</hi> or hath adhered unto the forces raiſed againſt the ſame, Then the ſaid priſoner by his Attorney ſhall thereunto reply, and take iſſue thereupon; and if by verdict of twelve men it ſhall be found for the priſoner, then the ſaid Court ſhall give Iudgement for the inlarging and diſcharging of the ſaid Priſoner out of Priſon, and thereupon award a Writ unto the Keeper of the ſaid Priſoner for his inlargement and diſcharge accordingly; but in caſe the ſaid Verdict ſhall be found againſt the Priſoner, then the ſaid Priſoner ſhall remain and continue in Priſon, in Execution or otherwiſe, as formerly he did, and as if this Act had never been had or made. Provided always, and be it further Enacted by the Authority aforeſaid, That all and every ſuch Priſoner and Priſoners as ſhall deſire the benefit of this Act, ſhall be ad<g ref="char:EOLhyphen"/>mitted by vertue of this Act, to ſue out and pro<g ref="char:EOLhyphen"/>ſecute all and every the ſaid Writs, Warrants, Returns and Proceedings beforementioned, <hi>in forma pauperis.</hi> Provided alſo, and be it further En<g ref="char:EOLhyphen"/>acted by the Authority aforeſaid, That notwith<g ref="char:EOLhyphen"/>ſtanding the diſcharge of the perſon of ſuch Pri<g ref="char:EOLhyphen"/>ſoner as is aforeſaid, all and every ſuch Iudge<g ref="char:EOLhyphen"/>ment had or taken againſt him, ſhall be, and ſtand good and effectual in the Law, to all intents and purpoſes, againſt the Lands, Tenements and hereditaments, Goods and Chattels of the ſaid Priſoner or Priſoners ſo diſcharged as aforeſaid, and that it ſhall and may be lawful, to and for every Creditor of ſuch Priſoner or Priſoners ſo diſ<g ref="char:EOLhyphen"/>charged as aforeſaid, his Executors, Adminiſtra<g ref="char:EOLhyphen"/>tors or Aſsigns, to take out any new Execution againſt the Lands, Tenements, Hereditaments, Goods and Chattels of ſuch Priſoner or Priſoners this wearing Apparel, Bedding for him and his
+<pb n="638" facs="tcp:120037:5"/>and Tools neceſſary for his Trade and Occupa<g ref="char:EOLhyphen"/>tion, not exceeding the value of Five pounds one<g ref="char:EOLhyphen"/>ly excepted) for the ſatisfaction of his or their ſaid debt, in ſuch fort, maner and form as he or they might have done, if the perſon or perſons of ſuch priſoner or priſoners had never been taken in execu<g ref="char:EOLhyphen"/>tion, Any thing in this Act, or any Law, Statute, Ordinance or Vſage to the contrary in any wiſe notwithſtanding. Provided alſo, and be it further Enacted by the Authority aforeſaid, That if at any time within ſeven years after the taking of the ſaid Oath, the ſaid priſoner or priſoners ſhall upon any Indictment or Indictments, be convicted by his or their own confeſſion, or by verdict of twelve men, of falſe ſwearing in any point or article con<g ref="char:EOLhyphen"/>tained in the ſaid Oath, as he or they ſhall or may be by force of this Act, Then ſuch priſoner or pri<g ref="char:EOLhyphen"/>ſoners ſo convicted as aforeſaid, ſhall ſuffer all ſuch pains and forfeitures, as by the Statute of <hi>Quinto</hi> of Queen <hi>Elizabeth</hi> are to be inflicted upon any per<g ref="char:EOLhyphen"/>ſon convicted of wilful perjury: And alſo the ſaid Court or Courts by which he or they were diſchar<g ref="char:EOLhyphen"/>ged, ſhall award a <hi>Capias ad <choice>
+                           <abbr>ſatisfaciend<g ref="char:abbrapo">’</g>
+                           </abbr>
+                           <expan>satisfaciendum</expan>
+                        </choice> infinite,</hi> or other Proceſs directed to any Sheriff or Sheriffs, for the apprehending of the ſaid priſoner; and upon the return of a <hi>Cepi Corpus,</hi> the ſaid Court ſhall remand the ſaid Priſoner unto the priſon from whence he was diſmiſſed, there to remain in Execu<g ref="char:EOLhyphen"/>tion, in ſuch maner and condition as he was before his ſaid inlargement: And then and from thence<g ref="char:EOLhyphen"/>forth he ſhall be adjudged to be in Execution, as ful<g ref="char:EOLhyphen"/>ly as if he had never been diſcharged thereof; and the Execution and Executions upon his Lands, Tenements, Hereditaments, Goods and Chattels, if any ſuch ſhall happen to be after his or their ſaid diſcharge out of priſon, and before he ſhall be ſo re<g ref="char:EOLhyphen"/>manded, ſhal ſtand alſo good and effectual in Law, Any Law, Cuſtom or Vſage to the contrary in any wiſe notwithſtanding.</p>
+                  <closer>
+                     <signed>Hen: Scobel, Cleric, Parliamenti.</signed>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="table_of_tax_rates">
+                  <pb n="639" facs="tcp:120037:5" rendition="simple:additions"/>
+                  <head>Die Veneris, <hi>21</hi> Decemb. <hi>1649.</hi>
+                  </head>
+                  <p>
+                     <table>
+                        <head>The RATES of the EXCIZE or NEW-IMPOST, Set and impoſed by Parliament on the ſeveral Commodities Im<g ref="char:EOLhyphen"/>ported, hereafter mentioned, to be Paid and Collected from the 21 day of <hi>December,</hi> 1649.</head>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">l.</cell>
+                           <cell role="label">s.</cell>
+                           <cell role="label">d.</cell>
+                        </row>
+                        <row>
+                           <cell>Reſolved upon the Queſtion by the Parliament,THat all Tobacco which is not of Engliſh Plantations, as well already Imported, having not paid Excize, as hereafter to be Imported, ſhall pay <hi>per</hi> pound weight Two ſhillings Excize, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Tobacco of the Engliſh Planta<g ref="char:EOLhyphen"/>tions, as well already Imported, not having paid Excize, as hereafter to be Imported in Engliſh Ships or Veſſels, ſhall pay Four pence <hi>per</hi> pound weight, to be paid by the firſt Buy<g ref="char:EOLhyphen"/>er thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Tobacco of the Engliſh Plantati<g ref="char:EOLhyphen"/>ons, as well already imported, which hath not paid Excize, as hereafter to be imported in Forraign Ships or Veſſels, ſhall pay Six pence <hi>per</hi> pound weight, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Pepper, as well already Imported into this Nation immediately from <hi>India,</hi> which hath not paid the Excize, as which ſhall hereafter be Imported im<g ref="char:EOLhyphen"/>mediately from <hi>India,</hi> ſhall pay Three pence in the pound weight for Excize, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Pepper, as well already Imported, not immediately brought from <hi>India,</hi> which hath not paid Excize, as that ſhall hereafter be Imported, being not imme<g ref="char:EOLhyphen"/>diately brought from <hi>India,</hi> ſhall pay Four pence <hi>per</hi> pound weight for Excize, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Refined Sugars double or ſingle in the loaf, as well already Imported, which hath not paid Ex<g ref="char:EOLhyphen"/>cize, as which ſhall be hereafter Imported, ſhall pay <hi>per</hi> pound weight Six pence, to be paid by the firſt Buyer there<g ref="char:EOLhyphen"/>of from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all White Sugars of the growth of Engliſh Plantations, as well which are already Imported, not having paid the Excize, as which ſhall hereafter be Imported, ſhall pay <hi>per</hi> pound weight Three pence, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>03</cell>
+                        </row>
+                        <pb n="640" facs="tcp:120037:6"/>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all other Sugars, under Whites, from Engliſh Plantations, as well which are already Imported, not having paid Excize, as which ſhall hereafter be Imported, ſhall pay <hi>per</hi> pound weight Two pence, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>02</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all White Sugars from other places, as well which are already Imported, not having paid Excize, as which ſhall hereafter be Imported, ſhall pay <hi>per</hi> pound weight Three pence half peny, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>03 ½</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all other Sugars, under Whites, as well <hi>Muſcovado's</hi> as others, which come from other places, as well already Imported, not having paid Ezcize, as which ſhall hereafter be Imported, ſhall pay <hi>per</hi> pound weight Two pence half peny, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>02 ½</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Candy white Sugar, as well which are already Imported, not having paid Ezcize, as which ſhall hereafter be Imported, ſhall pay <hi>per</hi> pound weight for Excize Eight pence, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Candy brown Sugar, as well which are already Imported, not having paid Excize, as which ſhall hereafter be Imported, ſhall pay <hi>per</hi> pound weight for Ex<g ref="char:EOLhyphen"/>cize Six pence, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all other Grocerywares not herein former<g ref="char:EOLhyphen"/>ly mentioned, as well which are already Imported, not having paid Excize, as which ſhal hereafter be Imported, ſhal pay after the Rate of Five pounds <hi>per Cent.</hi> according to the values ſet upon them in the Book of Rates of Merchandizes, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>05</cell>
+                           <cell>00</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Drugs, as well already Imported, not having paid the Excize, as which ſhall hereafter be Im<g ref="char:EOLhyphen"/>ported, ſhall pay after the Rate of Five pounds <hi>per Cent.</hi> according to the values ſet upon them in the ſaid Book of Rates, to be paid by the firſt Buyer thereof from the Mer<g ref="char:EOLhyphen"/>chant or Importer</cell>
+                           <cell>05</cell>
+                           <cell>00</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Mercery Wares, as well which are already Imported, not having paid the Excize, as which ſhall hereafter be Imported, ſhall pay after the Rate of Se<g ref="char:EOLhyphen"/>ven pounds ten ſhillings <hi>per Cent.</hi> according to the values ſet upon them in the ſaid Book of Rates, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>07</cell>
+                           <cell>10</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all raw Silk, as well which are already Imported, not having paid the Excize, as which ſhall here<g ref="char:EOLhyphen"/>after be Imported, ſhall pay after the Rate of Five pounds <hi>per Cent.</hi> according to the values ſet upon them in the ſaid Book of Rates; to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>05</cell>
+                           <cell>00</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <pb n="641" facs="tcp:120037:6"/>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Silks in the Gums ready throwen, as well which are already Imported, not having paid Excize, as which ſhall hereafter be Imported, ſhall pay after the Rate of Seven pounds ten ſhillings <hi>per Cent.</hi> according to the va<g ref="char:EOLhyphen"/>lues ſet upon them in the ſaid Book of Rates, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>07</cell>
+                           <cell>10</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all other Silks dyed, as well which are already Imported, not having paid Excize, as which ſhall hereafter be Imported, ſhall pay after the Rate of Seven pounds ten ſhillings <hi>per Cent.</hi> according to the values ſet upon them in the ſaid Book of Rates, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>07</cell>
+                           <cell>10</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Saltery Wares, as well which are already Imported, not having paid Excize, as which ſhall hereafter be Imported, ſhall pay after the Rate of Seven pounds ten ſhillings <hi>per Cent.</hi> according to the values ſet up<g ref="char:EOLhyphen"/>on them in the ſaid Book of Rates, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>07</cell>
+                           <cell>10</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Linnen fine and courſe, as well al<g ref="char:EOLhyphen"/>ready Imported, not having paid Excize, as which ſhall here<g ref="char:EOLhyphen"/>after be Imported, ſhall pay after the Rate of Five pounds <hi>per Cent.</hi> according to the values ſet upon them in the ſaid Book of Rates, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>05</cell>
+                           <cell>00</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Upholſtry, Haberdaſhery, Sope, Paper, Skins, Leather, Glaſſes, and Earthen Ware, as well already Imported, not having paid Excize, as which ſhall hereafter be Imported, ſhal pay after the Rate of Five pounds <hi>per Cent.</hi> according to the values ſet upon them in the ſaid Book of Rates, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>05</cell>
+                           <cell>00</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Spirits Imported, made of French Wines, called <hi>Brandwine,</hi> as well which are already Imported, not having paid Excize, as which ſhall hereafter be Imported, ſhall pay after the Rate of Four pence <hi>per</hi> Gallon, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all forraign Spirits and domeſtick, fraudulently ſold in ſtead of <hi>Aqua-vitae</hi> or Strong-water, ſhall pay One ſhilling <hi>per</hi> Gallon</cell>
+                           <cell>00</cell>
+                           <cell>01</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Strong-waters perfectly made, as well already Imported, not having paid Excize, as which ſhall hereafter be Imported, ſhall pay after the Rate of One ſhilling <hi>per</hi> Gallon, to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>00</cell>
+                           <cell>01</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That for every Tun of Wines, as well al<g ref="char:EOLhyphen"/>ready Imported, not having paid the Excize, as which here<g ref="char:EOLhyphen"/>after ſhall be Imported, ſhall be paid Five pounds for Excize, and ſo after that Rate for a greater or leſſer quantity, the ſame to be paid by the firſt Buyer thereof from the Mer<g ref="char:EOLhyphen"/>chant or Importer</cell>
+                           <cell>05</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <pb n="642" facs="tcp:120037:7"/>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all forraign Salt, as well already Im<g ref="char:EOLhyphen"/>ported, which hath not paid Excize, as which ſhall be here<g ref="char:EOLhyphen"/>after Imported, ſhall pay Three half pence upon every Gal<g ref="char:EOLhyphen"/>lon, to be paid by the firſt Buyer of ſuch Salt</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>01 ½</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Salt made or to be made, within <hi>England, Wales,</hi> or Town of <hi>Berwick,</hi> which is or ſhall be ſhipped or conveyed by water, ſhall pay One half peny upon every Gallon, to be paid by the firſt Buyer of ſuch Salt, at the place of landing or unloading thereof</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>00 ½</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all other Salt made or to be made within <hi>England, Wales,</hi> or Town of <hi>Berwick,</hi> and not ſhipped or conveyed by water, ſhall pay One half peny upon every Gallon, to be paid by the firſt Buyer of ſuch Salt, up<g ref="char:EOLhyphen"/>on the firſt delivery thereof</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>00 ½</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all Salt upon Salt that is made of Salt within <hi>England, Wales,</hi> or Town of <hi>Berwick,</hi> which hath once paid Excize, ſhall pay One farthing upon every Gallon, to be paid by the Maker of ſuch Salt upon Salt, before ſuch time as the ſame ſhall be put to ſale</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>00 ¼</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That no Salt expended upon Fiſhing ſhall be lyable to this Excize</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all other Goods and Merchandizes (except Bullion, Corn, Victual, Arms, Ammunition, and Spaniſh Wools) as well which are already Imported, not having paid Excize, as which ſhall hereafter be Imported, which are not by any of the Votes aboveſaid to be charge<g ref="char:EOLhyphen"/>able with the Excize (other then ſuch Goods and Merchan<g ref="char:EOLhyphen"/>dizes as ſhall hereafter by Parliament be charged with Ex<g ref="char:EOLhyphen"/>cize) ſhal pay after the rate of Five pounds <hi>per cent.</hi> to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>05</cell>
+                           <cell>00</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Reſolved, &amp;c.</hi> That all other Goods and Merchandizes to be Imported, upon which no values are ſet in the Book of Rates, ſhall pay Five pounds <hi>per cent.</hi> to be paid by the firſt Buyer thereof from the Merchant or Importer</cell>
+                           <cell>05</cell>
+                           <cell>00</cell>
+                           <cell>00 <hi>per Cent.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Reſolved, &amp;c. <hi>That the Commiſſioners of Excize, and their Sub-Commiſſioners and Officers, ſhall Collect, Receive, and take the Excize and Impoſt ſet and rated upon the Goods and Merchandizes above mentioned, and no other Excize or Impoſt upon the ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d Goods and Merchandizes.</hi>
+                  </p>
+                  <p>Reſolved, &amp;c. <hi>That the ſeveral Votes aboveſaid, touching the Excize, be forthwith Printed and Publiſhed, and that the ſame be ſent to the Commiſſioners for Excize, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> that they, and all Sub-Commiſſioners, and all other Officers and Miniſters of the Ex<g ref="char:EOLhyphen"/>cize under them, be authorized and enjoyned to put the ſame in Execution forthwith, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> to Collect and gather the Excize according to the ſaid Votes, and according to their for<g ref="char:EOLhyphen"/>mer Powers, and under the pains and penalties expreſſed in the former Ordinances an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Acts of Parliament, touching the Excize and New-Impoſt.</hi>
+                  </p>
+               </div>
+               <div type="order">
+                  <head>
+                     <hi>Die Veneris,</hi> 21 <hi>Decembr.</hi> 1649.</head>
+                  <p>ORdered by the Parliament, That theſe Votes be forthwith printed and publiſhed</p>
+                  <p>
+                     <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edward Huſband,</hi> Printed to the Parliament of <hi>England,</hi> 1649.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
